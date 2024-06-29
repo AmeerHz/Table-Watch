@@ -22,7 +22,6 @@ classNames = ["diningtable", "person", "bicycle", "car", "motorbike", "aeroplane
               "microwave", "oven", "toaster", "sink", "refrigerator", "book", "clock", "vase", "scissors",
               "teddy bear", "hair drier", ]
 
-#5555
 plt.ion()
 fig, ax = plt.subplots()
 
@@ -76,7 +75,7 @@ while True:
 
     img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
 
-    # عرض الصورة باستخدام matplotlib
+
     ax.clear()
     ax.imshow(img)
     ax.set_title("Restaurant")
