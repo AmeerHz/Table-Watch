@@ -22,7 +22,7 @@ classNames = ["diningtable", "person", "bicycle", "car", "motorbike", "aeroplane
               "microwave", "oven", "toaster", "sink", "refrigerator", "book", "clock", "vase", "scissors",
               "teddy bear", "hair drier", ]
 
-# إنشاء الشكل والمحور لـ matplotlib
+#5555
 plt.ion()
 fig, ax = plt.subplots()
 
